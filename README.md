@@ -1,4 +1,4 @@
-# Maximum_Flow_Problem
+# Maximum Flow Problem
 
 **Version 1.0.0**
 
