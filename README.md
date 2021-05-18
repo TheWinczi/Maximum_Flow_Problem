@@ -5,11 +5,10 @@
 Program solving maximum flow problem. 
 Project from 2019
 
---
-## Technology used
+## Technologies used
 1. C++ 14
 2. Visual Studio 2019
 
--- 
+---
 ## Licence & copyright
 © All rights reserved
